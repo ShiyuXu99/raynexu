@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/raynexu/static/css/main.f855e6bc.css",
+    "main.js": "/raynexu/static/js/main.bc034e21.js",
+    "static/js/453.c45e8d66.chunk.js": "/raynexu/static/js/453.c45e8d66.chunk.js",
+    "static/media/logo.svg": "/raynexu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/raynexu/index.html",
+    "main.f855e6bc.css.map": "/raynexu/static/css/main.f855e6bc.css.map",
+    "main.bc034e21.js.map": "/raynexu/static/js/main.bc034e21.js.map",
+    "453.c45e8d66.chunk.js.map": "/raynexu/static/js/453.c45e8d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bc034e21.js"
+  ]
+}
